@@ -50,9 +50,9 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Authors
 
-* **Eric Bazan** - *Initial work*
-* **Petr Dokládal** - *Initial work* 
-* **Eva Dokládálova** - *Initial work* 
+* **Eric Bazan** *<eric.bazan@mines-paristech.fr>* - *Initial work*
+* **Petr Dokládal** *<petr.dokladaln@mines-paristech.fr>*- *Initial work* 
+* **Eva Dokládalová** *<eva.dokladalova@esiee.fr>*- *Initial work* 
 
 ## License
 
